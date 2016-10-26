@@ -1,0 +1,7 @@
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\CompositeDelegate1App\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\CompositeDelegate1App\bin\Debug\CompositeDelegate1App.exe
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\CompositeDelegate1App\bin\Debug\CompositeDelegate1App.pdb
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\CompositeDelegate1App\bin\Debug\DelegateLibrary.dll
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\CompositeDelegate1App\bin\Debug\DelegateLibrary.pdb
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\CompositeDelegate1App\obj\x86\Debug\CompositeDelegate1App.exe
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\CompositeDelegate1App\obj\x86\Debug\CompositeDelegate1App.pdb

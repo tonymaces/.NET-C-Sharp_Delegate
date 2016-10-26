@@ -1,0 +1,7 @@
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate3App\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate3App\bin\Debug\Delegate3App.exe
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate3App\bin\Debug\Delegate3App.pdb
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate3App\obj\x86\Debug\Delegate3App.exe
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate3App\obj\x86\Debug\Delegate3App.pdb
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\Delegate3App\bin\Debug\DelegateLibrary.dll
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\Delegate3App\bin\Debug\DelegateLibrary.pdb

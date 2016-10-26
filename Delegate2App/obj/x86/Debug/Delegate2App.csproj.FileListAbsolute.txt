@@ -1,0 +1,7 @@
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate2App\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate2App\bin\Debug\Delegate2App.exe
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate2App\bin\Debug\Delegate2App.pdb
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate2App\obj\x86\Debug\Delegate2App.exe
+e:\users\tony\documents\visual studio 2010\Projects\McGrawHillCSharp\Delegate2App\obj\x86\Debug\Delegate2App.pdb
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\Delegate2App\bin\Debug\DelegateLibrary.dll
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\Delegate2App\bin\Debug\DelegateLibrary.pdb

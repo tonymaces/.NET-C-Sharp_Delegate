@@ -1,0 +1,5 @@
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\DelegateLibrary\bin\Debug\DelegateLibrary.dll
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\DelegateLibrary\bin\Debug\DelegateLibrary.pdb
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\DelegateLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\DelegateLibrary\obj\Debug\DelegateLibrary.dll
+E:\Users\Tony\Documents\Visual Studio 2010\Projects\McGrawHillCSharp\DelegateLibrary\obj\Debug\DelegateLibrary.pdb
